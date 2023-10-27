@@ -14,7 +14,7 @@ I love what I do and I'm always on the open for the next coding opportunity, whe
 - React JS
 - jQuery
 - PHP
-- HTMl5 | CSS | Sass
+- HTML | CSS | Sass
 - GSAP JS Animation
 - Wordpress
 - Bootstrap
