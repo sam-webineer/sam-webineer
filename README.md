@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sam
+## 👋🏼 Hi, I'm Sam
 
 ![Sam Wood - Frontend engineer & banner animation specialist](/assets/github-readme-banner.png)
 
