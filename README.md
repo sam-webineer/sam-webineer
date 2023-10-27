@@ -1,8 +1,10 @@
 ## 👋 Hi, I'm Sam
 
-I'm an experienced UI frontend engineer based in the south of the UK. I've worked on Design Systems, small and large scale websites, CMS's, Digital display ads and everything in-between (even kick-ass email templating!). 
+![Sam Wood - Frontend engineer & banner animation specialist](/assets/github-readme-banner.png)
 
-I love what I do and I'm always on the hunt for the next coding opportunity that's out there!
+I'm an experienced UI frontend engineer based in the south of the UK. I've worked on Design Systems, small and large scale websites, CMS's, Digital display ads and everything in-between (even email templating!). 
+
+I love what I do and I'm always on the open for the next coding opportunity, whether on a permanent, freelance or contract basis! 
 
 ### 🔧 Skill Stack 
 
