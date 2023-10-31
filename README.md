@@ -1,8 +1,8 @@
 ## 👋🏼 Hi, I'm Sam
 
-![Sam Wood - Frontend engineer & banner animation specialist](/assets/github-readme-banner.png)
+![Sam Wood - Front-end engineer & banner animation specialist](/assets/github-readme-banner.png)
 
-I'm an experienced UI frontend engineer based in the south of the UK. I've worked on design systems, small and large scale websites, CMSs, digital online display ads and everything in-between (even email templating!). 
+I'm an experienced UI front-end engineer based in the south of the UK. I've worked on design systems, small and large scale websites, CMSs, digital online display ads and everything in-between (even email templating!). 
 
 I love what I do and I'm always on the open for the next coding opportunity, whether on a permanent, freelance or contract basis! 
 
@@ -29,7 +29,7 @@ I love what I do and I'm always on the open for the next coding opportunity, whe
 
 ### 📭  Get in touch
 
-- Reach on [LinkedIn](https://www.linkedin.com/in/samwood23/)
+- Reach me on [LinkedIn](https://www.linkedin.com/in/samwood23/)
 - Email me at [sam.webineer@gmail.com](emailto:sam.webineer@gmail.com)
 
 <!--
