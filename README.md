@@ -30,7 +30,7 @@ I love what I do and I'm always on the open for the next coding opportunity, whe
 ### 📭  Get in touch
 
 - Reach me on [LinkedIn](https://www.linkedin.com/in/samwood23/)
-- Email me at [sam.webineer@gmail.com](emailto:sam.webineer@gmail.com)
+- Email me at [sam.webineer@gmail.com](mailto:sam.webineer@gmail.com)
 
 \**A large portion of my work is not always available in the public domain due to contractual reasons. Please do reach out and  I\'ll be happy to privately show you a range of work I have done. Thanks*
 
