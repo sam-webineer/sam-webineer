@@ -4,7 +4,7 @@
 
 I'm an experienced UI front-end engineer based in the south of the UK. I've worked on design systems, small and large scale websites, CMSs, digital online display ads and everything in-between (even email templating!). 
 
-I love what I do and I'm always on the open for the next coding opportunity, whether on a permanent, freelance or contract basis! 
+I love what I do and I'm always on the open for the next coding opportunity, whether on a permanent, freelance or contract basis!\*
 
 ### 🔧 Skill Stack 
 
@@ -31,6 +31,8 @@ I love what I do and I'm always on the open for the next coding opportunity, whe
 
 - Reach me on [LinkedIn](https://www.linkedin.com/in/samwood23/)
 - Email me at [sam.webineer@gmail.com](emailto:sam.webineer@gmail.com)
+
+\**A large portion of my work is not always available in the public domain due to contractual reasons. Please do reach out and  I\'ll be happy to privately show you a range of work I have done. Thanks*
 
 <!--
 **sam-webineer/sam-webineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
